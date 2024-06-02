@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# dotenv environment variables file
+.env
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Compiled JavaScript files
+*.js.map
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Optional npm cache directory
+.npm
+
+# TypeScript compiled files
+*.tsbuildinfo
+
+# Temporary files
+tmp/
+temp/
+
+# Build directories
+dist/
+build/
+
+# Private key files
+*.pem
+*.key
